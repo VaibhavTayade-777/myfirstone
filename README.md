@@ -1,3 +1,3 @@
 # myfirstone
 My first github repo
-Author - Vaibhav
+Author - Vaibhav Tayade
